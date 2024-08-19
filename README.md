@@ -1,11 +1,6 @@
-#USUARIOS DE PRUEBA
 
-USUARIO: funval@gmail.com 
-PASSWORD: Funvalproyecto
+USUARIO: funval200@gmail.com
+PASSWORD: E@983320035
 
-USUARIO: lexeboxof@mailinator.com
-PASSWORD: 12345678A
-
-USUARIO: prueba3@gmail.com
-PASSWORD: Funvalproyecto
-
+USUARIO:metaci@mailinator.com
+PASSWORD: Holamundo2609
